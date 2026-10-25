@@ -1,5 +1,6 @@
 {
-  "UpdateAvailable": true,
-  "UpdateUrl": "https://t.me/+MhiTBiNfLZY3N2Jl,
-  "UpdateMessage": "A new version of this mod is available! Please update to the latest version to continue using the app."
+  "latest_version": 50020132,
+  "Tittle": "New Update Available!",
+  "Message": "Please click the Update Now button to download the latest version. 👇",
+  "download_url": "https://t.me/+MhiTBiNfLZY3N2Jl"
 }
